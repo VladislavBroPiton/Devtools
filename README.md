@@ -1,2 +1,2 @@
 # Devtools HW
-_____
+1. Открыть сайт http://itcareer.pythonanywhere.com/  
