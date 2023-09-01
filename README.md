@@ -55,4 +55,5 @@
 
 
 
+![Hajime_discipline](https://github.com/VladislavBroPiton/Devtools/assets/132227845/4dc5c68f-8da8-4717-949e-3d8f12df3350)
 
