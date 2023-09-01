@@ -36,6 +36,8 @@
  34. Откройте вкладку LightHouse.
  35. Нажмите Generate report. 
  36. Установить в браузер бесплатный AdBlocker. 
+ 37. Установить в браузер Json Viewer. 
+ 38. Зайти на сайт https://ksendzov.com (https://ksendzov.com/). 
 
 
 
