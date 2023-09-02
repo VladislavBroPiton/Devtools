@@ -25,7 +25,7 @@
  23. Найти лог **request/responce**.   
  24. Открыть вкладку **Headers**. 
  25. Просмотреть **General, Response Headers, Request Headers**. 
- 26. Найти и скопировать в новый текстовый файл header - User-Agent. 
+ 26. Найти и скопировать в новый текстовый файл **header - User-Agent**. 
  27. Открыть вкладку Preview. 
  28. Развернуть все уровни вложенности JSON. 
  29. Открыть вкладку Application. 
