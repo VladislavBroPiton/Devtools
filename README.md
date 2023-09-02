@@ -23,7 +23,7 @@
  21. Открыть вкладку **Network**. 
  22. В урле отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  23. Найти лог **request/responce**.   
- 24. Открыть вкладку Headers. 
+ 24. Открыть вкладку **Headers**. 
  25. Просмотреть General, Response Headers, Request Headers. 
  26. Найти и скопировать в новый текстовый файл header - User-Agent. 
  27. Открыть вкладку Preview. 
