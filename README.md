@@ -7,7 +7,7 @@
  5. Выставить **Dimensions: Responsive**. 
  6. Выбрать **Responsive - Mobile**. 
  7. Продемонстрировать работу дизайна **Responsive**.   
- 8. Выставить **Dimensions: Adaptive** (select device). 
+ 8. Выставить **Dimensions: Adaptive** (select device).
  9. Создать свой девайс. 
  10. Выставить **Throttling low-end mobile**. 
  11. Обновить страницу. 
